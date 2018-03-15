@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../springcold-chens/chap1/chap1.iml" filepath="$PROJECT_DIR$/../springcold-chens/chap1/chap1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcold-chens/chap2/chap2.iml" filepath="$PROJECT_DIR$/../springcold-chens/chap2/chap2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcold-chens/chap3/chap3.iml" filepath="$PROJECT_DIR$/../springcold-chens/chap3/chap3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcold-chens/chap1/eureka/eureka.iml" filepath="$PROJECT_DIR$/../springcold-chens/chap1/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcold-chens/chap1/regist/regist.iml" filepath="$PROJECT_DIR$/../springcold-chens/chap1/regist/regist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcold-chens.iml" filepath="$PROJECT_DIR$/springcold-chens.iml" />
+    </modules>
+  </component>
+</project>
